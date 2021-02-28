@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+.Todo {
+  text-align: center;
+  background-color: #008080;
+  padding: 30px;
+}
+.Title {
+  color: white;
+  text-transform: uppercase;
+  font-family: "Oswald", sans-serif;
+  font-size: "1em";
+}

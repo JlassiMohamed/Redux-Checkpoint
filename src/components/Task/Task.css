@@ -1,0 +1,13 @@
+.task {
+  display: flex;
+  align-items: center;
+}
+.done {
+  text-decoration: line-through;
+}
+Button {
+  width: 60px;
+}
+.Btn {
+  display: flex;
+}
